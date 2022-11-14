@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: woff
+Version: 1.5.0
+Summary: Lindungi jarngan lokal
+Home-page: https://github.com/fasuyaaa/woff
+Author: fasuyaaa
+Author-email: dhavinf.a@gmail.com
+Keywords: woff,wifi,bandwidth,network
+Classifier: Development Status :: 3 - Alpha
+Classifier: Environment :: Console
+Classifier: Intended Audience :: End Users/Desktop
+Classifier: Intended Audience :: System Administrators
+Classifier: Intended Audience :: Developers
+Classifier: Natural Language :: Indonesian - English
+Classifier: Operating System :: Unix
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3 :: Only
+Classifier: Topic :: System :: Networking
+Requires-Python: >= 3

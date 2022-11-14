@@ -1,0 +1,6 @@
+colorama
+netaddr
+netifaces
+scapy
+terminaltables
+tqdm
