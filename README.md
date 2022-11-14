@@ -12,7 +12,13 @@ Program yang dibuat untuk mengamankan jaringan wireless anda.
 # Peringatan
 Jangan salah gunakan program ini untuk kejahatan!
 
+-----------------------------------------------------------
+
+# OS
+LINUX
+
 ------------------------------------------------------------
 # Lisensi
 Copyright of Fasuyaaa, 2022  
+
 -------------------------------------------------------------
