@@ -3,6 +3,7 @@ Program yang dibuat untuk mengamankan jaringan wireless anda.
 
 -------------------------------------------------------------
 # Instalasi
+- Instal di LINUX
 1. Buka terminal
 2. "git clone https://github.com/bitbrute/evillimiter.git"
 3. "cd woff"
