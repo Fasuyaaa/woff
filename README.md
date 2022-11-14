@@ -7,6 +7,7 @@ Program yang dibuat untuk mengamankan jaringan wireless anda.
 2. "git clone https://github.com/bitbrute/evillimiter.git"
 3. "cd woff"
 4. "sudo python3 setup.py install"
+5. "sudo woff"
 
 ------------------------------------------------------------
 # Peringatan
