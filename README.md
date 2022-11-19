@@ -20,7 +20,7 @@ Jangan salah gunakan program ini untuk kejahatan!
 LINUX
 
 ------------------------------------------------------------
-# Lisensi
-Copyright of Fasuyaaa, 2022  
+# Source:
+- evillimiter  
 
 -------------------------------------------------------------
